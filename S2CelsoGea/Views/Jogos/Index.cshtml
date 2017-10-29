@@ -1,0 +1,126 @@
+﻿@model IEnumerable<S2CelsoGea.Context.ContextModels.Jogo>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Novo", "Create")
+</p>
+
+@*<div class="top_banner2"></div>*@
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Name)
+        </th>
+       <th>
+           @Html.DisplayName("Emprestado para")
+       </th>
+        <th>Ações</th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Name)
+        </td>
+
+        <td>
+            @Html.DisplayFor(modelItem => item.WithUser.UserName)
+        </td>
+ 
+        <td>
+         
+            @if (item.WithUser == null)
+            {
+                <a href="" onclick="empresta(event, { Name: '@item.Name', Id: '@item.Id' })">Emprestar</a>
+            } else
+            {
+                <a href="" onclick="devolve(event,  @item.Id)">Devolução</a> 
+            }
+
+            | @Html.ActionLink("Editar", "Edit", new { id = item.Id }) |
+            @Html.ActionLink("Detalhes", "Details", new { id = item.Id }) |
+            @Html.ActionLink("Excluir", "Delete", new { id=item.Id })
+        </td>
+    </tr>
+}
+
+</table>
+
+
+
+<script>
+
+    var jconfirm = function (message, callback) {
+        var options = {            
+            message: message,
+            title: 'Confirmar devolução',
+        };
+        options.buttons = {
+            cancel: {   
+                label: "Cancelar",
+                className: "btn-default",
+                callback: function(result) {
+                }
+            },
+            main: {
+                label: "Confirmar",
+                className: "btn-primary",
+                callback: function (result) {
+                    callback();
+                }
+            }
+        };
+        bootbox.dialog(options);
+    };
+
+    var jempresta = function (message, callback) {
+        bootbox.prompt({
+            title: message,
+            inputType: 'select',
+            inputOptions:arrOptions,
+            callback: function (result) {
+                callback(result)
+            }
+        });
+    };
+
+    function devolve(e, idJogo) {
+        e.preventDefault()  
+        jconfirm("Confirme para efetuar a devolução", function (r) {
+            console.log(r);
+            $.post('@Url.Action("Devolucao", "Jogos")' + "/" + idJogo, {}, function() {
+                window.location.reload()
+            })
+        });
+    }
+
+    var users = @Html.Raw(Json.Encode(ViewBag.Users));
+    var arrOptions;
+
+    function empresta (e,jogo) {
+        e.preventDefault()  
+        if(arrOptions == undefined){
+            arrOptions = []
+            users.forEach(function(o,c){
+                console.log(o.UserName)
+                arrOptions.push({text: o.UserName, value: o.Id.toString()})
+            })
+        }
+
+        jempresta('Selecione o amigo para emprestar o jogo', function(r) {
+            //console.log(r);
+            jogo['WithUser_Id'] = r
+            $.post('@Url.Action("Emprestar", "Jogos")', jogo, function() {
+                window.location.reload()
+            })
+        })
+        
+    }   
+   
+</script>

@@ -1,0 +1,184 @@
+c:\users\note-pc\documents\visual studio 2015\Projects\S2CelsoGea\S2CelsoGea\bin\ApplicationInsights.config
+c:\users\note-pc\documents\visual studio 2015\Projects\S2CelsoGea\S2CelsoGea\bin\roslyn\csc.exe
+c:\users\note-pc\documents\visual studio 2015\Projects\S2CelsoGea\S2CelsoGea\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\note-pc\documents\visual studio 2015\Projects\S2CelsoGea\S2CelsoGea\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\note-pc\documents\visual studio 2015\Projects\S2CelsoGea\S2CelsoGea\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\note-pc\documents\visual studio 2015\Projects\S2CelsoGea\S2CelsoGea\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\note-pc\documents\visual studio 2015\Projects\S2CelsoGea\S2CelsoGea\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\note-pc\documents\visual studio 2015\Projects\S2CelsoGea\S2CelsoGea\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\note-pc\documents\visual studio 2015\Projects\S2CelsoGea\S2CelsoGea\bin\roslyn\System.Collections.Immutable.dll
+c:\users\note-pc\documents\visual studio 2015\Projects\S2CelsoGea\S2CelsoGea\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\note-pc\documents\visual studio 2015\Projects\S2CelsoGea\S2CelsoGea\bin\roslyn\vbc.exe
+c:\users\note-pc\documents\visual studio 2015\Projects\S2CelsoGea\S2CelsoGea\bin\roslyn\VBCSCompiler.exe
+c:\users\note-pc\documents\visual studio 2015\Projects\S2CelsoGea\S2CelsoGea\bin\roslyn\VBCSCompiler.exe.config
+c:\users\note-pc\documents\visual studio 2015\Projects\S2CelsoGea\S2CelsoGea\bin\S2CelsoGea.dll.config
+c:\users\note-pc\documents\visual studio 2015\Projects\S2CelsoGea\S2CelsoGea\bin\S2CelsoGea.dll
+c:\users\note-pc\documents\visual studio 2015\Projects\S2CelsoGea\S2CelsoGea\bin\S2CelsoGea.pdb
+c:\users\note-pc\documents\visual studio 2015\Projects\S2CelsoGea\S2CelsoGea\bin\Antlr3.Runtime.dll
+c:\users\note-pc\documents\visual studio 2015\Projects\S2CelsoGea\S2CelsoGea\bin\EntityFramework.dll
+c:\users\note-pc\documents\visual studio 2015\Projects\S2CelsoGea\S2CelsoGea\bin\EntityFramework.SqlServer.dll
+c:\users\note-pc\documents\visual studio 2015\Projects\S2CelsoGea\S2CelsoGea\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\note-pc\documents\visual studio 2015\Projects\S2CelsoGea\S2CelsoGea\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\note-pc\documents\visual studio 2015\Projects\S2CelsoGea\S2CelsoGea\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\note-pc\documents\visual studio 2015\Projects\S2CelsoGea\S2CelsoGea\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\note-pc\documents\visual studio 2015\Projects\S2CelsoGea\S2CelsoGea\bin\Microsoft.AI.Web.dll
+c:\users\note-pc\documents\visual studio 2015\Projects\S2CelsoGea\S2CelsoGea\bin\Microsoft.AI.WindowsServer.dll
+c:\users\note-pc\documents\visual studio 2015\Projects\S2CelsoGea\S2CelsoGea\bin\Microsoft.ApplicationInsights.dll
+c:\users\note-pc\documents\visual studio 2015\Projects\S2CelsoGea\S2CelsoGea\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\note-pc\documents\visual studio 2015\Projects\S2CelsoGea\S2CelsoGea\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\note-pc\documents\visual studio 2015\Projects\S2CelsoGea\S2CelsoGea\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\note-pc\documents\visual studio 2015\Projects\S2CelsoGea\S2CelsoGea\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\note-pc\documents\visual studio 2015\Projects\S2CelsoGea\S2CelsoGea\bin\Microsoft.Owin.dll
+c:\users\note-pc\documents\visual studio 2015\Projects\S2CelsoGea\S2CelsoGea\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\note-pc\documents\visual studio 2015\Projects\S2CelsoGea\S2CelsoGea\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\note-pc\documents\visual studio 2015\Projects\S2CelsoGea\S2CelsoGea\bin\Microsoft.Owin.Security.dll
+c:\users\note-pc\documents\visual studio 2015\Projects\S2CelsoGea\S2CelsoGea\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\note-pc\documents\visual studio 2015\Projects\S2CelsoGea\S2CelsoGea\bin\Microsoft.Owin.Security.Google.dll
+c:\users\note-pc\documents\visual studio 2015\Projects\S2CelsoGea\S2CelsoGea\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\note-pc\documents\visual studio 2015\Projects\S2CelsoGea\S2CelsoGea\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\note-pc\documents\visual studio 2015\Projects\S2CelsoGea\S2CelsoGea\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\note-pc\documents\visual studio 2015\Projects\S2CelsoGea\S2CelsoGea\bin\Microsoft.Web.Infrastructure.dll
+c:\users\note-pc\documents\visual studio 2015\Projects\S2CelsoGea\S2CelsoGea\bin\Newtonsoft.Json.dll
+c:\users\note-pc\documents\visual studio 2015\Projects\S2CelsoGea\S2CelsoGea\bin\Owin.dll
+c:\users\note-pc\documents\visual studio 2015\Projects\S2CelsoGea\S2CelsoGea\bin\System.Net.Http.Formatting.dll
+c:\users\note-pc\documents\visual studio 2015\Projects\S2CelsoGea\S2CelsoGea\bin\System.Web.Helpers.dll
+c:\users\note-pc\documents\visual studio 2015\Projects\S2CelsoGea\S2CelsoGea\bin\System.Web.Http.dll
+c:\users\note-pc\documents\visual studio 2015\Projects\S2CelsoGea\S2CelsoGea\bin\System.Web.Http.Owin.dll
+c:\users\note-pc\documents\visual studio 2015\Projects\S2CelsoGea\S2CelsoGea\bin\System.Web.Http.WebHost.dll
+c:\users\note-pc\documents\visual studio 2015\Projects\S2CelsoGea\S2CelsoGea\bin\System.Web.Mvc.dll
+c:\users\note-pc\documents\visual studio 2015\Projects\S2CelsoGea\S2CelsoGea\bin\System.Web.Optimization.dll
+c:\users\note-pc\documents\visual studio 2015\Projects\S2CelsoGea\S2CelsoGea\bin\System.Web.Razor.dll
+c:\users\note-pc\documents\visual studio 2015\Projects\S2CelsoGea\S2CelsoGea\bin\System.Web.WebPages.Deployment.dll
+c:\users\note-pc\documents\visual studio 2015\Projects\S2CelsoGea\S2CelsoGea\bin\System.Web.WebPages.dll
+c:\users\note-pc\documents\visual studio 2015\Projects\S2CelsoGea\S2CelsoGea\bin\System.Web.WebPages.Razor.dll
+c:\users\note-pc\documents\visual studio 2015\Projects\S2CelsoGea\S2CelsoGea\bin\WebGrease.dll
+c:\users\note-pc\documents\visual studio 2015\Projects\S2CelsoGea\S2CelsoGea\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\note-pc\documents\visual studio 2015\Projects\S2CelsoGea\S2CelsoGea\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\note-pc\documents\visual studio 2015\Projects\S2CelsoGea\S2CelsoGea\bin\Microsoft.AI.Web.xml
+c:\users\note-pc\documents\visual studio 2015\Projects\S2CelsoGea\S2CelsoGea\bin\Microsoft.AI.WindowsServer.xml
+c:\users\note-pc\documents\visual studio 2015\Projects\S2CelsoGea\S2CelsoGea\bin\Microsoft.ApplicationInsights.xml
+c:\users\note-pc\documents\visual studio 2015\Projects\S2CelsoGea\S2CelsoGea\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\note-pc\documents\visual studio 2015\Projects\S2CelsoGea\S2CelsoGea\bin\Newtonsoft.Json.xml
+c:\users\note-pc\documents\visual studio 2015\Projects\S2CelsoGea\S2CelsoGea\bin\System.Net.Http.Formatting.xml
+c:\users\note-pc\documents\visual studio 2015\Projects\S2CelsoGea\S2CelsoGea\bin\System.Web.Helpers.xml
+c:\users\note-pc\documents\visual studio 2015\Projects\S2CelsoGea\S2CelsoGea\bin\System.Web.Http.xml
+c:\users\note-pc\documents\visual studio 2015\Projects\S2CelsoGea\S2CelsoGea\bin\System.Web.Http.WebHost.xml
+c:\users\note-pc\documents\visual studio 2015\Projects\S2CelsoGea\S2CelsoGea\bin\System.Web.Mvc.xml
+c:\users\note-pc\documents\visual studio 2015\Projects\S2CelsoGea\S2CelsoGea\bin\System.Web.Optimization.xml
+c:\users\note-pc\documents\visual studio 2015\Projects\S2CelsoGea\S2CelsoGea\bin\System.Web.Razor.xml
+c:\users\note-pc\documents\visual studio 2015\Projects\S2CelsoGea\S2CelsoGea\bin\System.Web.WebPages.xml
+c:\users\note-pc\documents\visual studio 2015\Projects\S2CelsoGea\S2CelsoGea\bin\System.Web.WebPages.Deployment.xml
+c:\users\note-pc\documents\visual studio 2015\Projects\S2CelsoGea\S2CelsoGea\bin\System.Web.WebPages.Razor.xml
+c:\users\note-pc\documents\visual studio 2015\Projects\S2CelsoGea\S2CelsoGea\bin\Antlr3.Runtime.pdb
+c:\users\note-pc\documents\visual studio 2015\Projects\S2CelsoGea\S2CelsoGea\bin\EntityFramework.xml
+c:\users\note-pc\documents\visual studio 2015\Projects\S2CelsoGea\S2CelsoGea\bin\EntityFramework.SqlServer.xml
+c:\users\note-pc\documents\visual studio 2015\Projects\S2CelsoGea\S2CelsoGea\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\note-pc\documents\visual studio 2015\Projects\S2CelsoGea\S2CelsoGea\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\note-pc\documents\visual studio 2015\Projects\S2CelsoGea\S2CelsoGea\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\note-pc\documents\visual studio 2015\Projects\S2CelsoGea\S2CelsoGea\bin\Microsoft.Owin.xml
+c:\users\note-pc\documents\visual studio 2015\Projects\S2CelsoGea\S2CelsoGea\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\note-pc\documents\visual studio 2015\Projects\S2CelsoGea\S2CelsoGea\bin\Microsoft.Owin.Security.xml
+c:\users\note-pc\documents\visual studio 2015\Projects\S2CelsoGea\S2CelsoGea\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\note-pc\documents\visual studio 2015\Projects\S2CelsoGea\S2CelsoGea\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\note-pc\documents\visual studio 2015\Projects\S2CelsoGea\S2CelsoGea\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\note-pc\documents\visual studio 2015\Projects\S2CelsoGea\S2CelsoGea\bin\Microsoft.Owin.Security.Google.xml
+c:\users\note-pc\documents\visual studio 2015\Projects\S2CelsoGea\S2CelsoGea\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\note-pc\documents\visual studio 2015\Projects\S2CelsoGea\S2CelsoGea\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\note-pc\documents\visual studio 2015\Projects\S2CelsoGea\S2CelsoGea\bin\System.Web.Http.Owin.xml
+c:\users\note-pc\documents\visual studio 2015\Projects\S2CelsoGea\S2CelsoGea\obj\Debug\S2CelsoGea.csprojResolveAssemblyReference.cache
+c:\users\note-pc\documents\visual studio 2015\Projects\S2CelsoGea\S2CelsoGea\obj\Debug\S2CelsoGea.dll
+c:\users\note-pc\documents\visual studio 2015\Projects\S2CelsoGea\S2CelsoGea\obj\Debug\S2CelsoGea.pdb
+c:\users\note-pc\documents\visual studio 2015\Projects\S2CelsoGea\S2CelsoGea\obj\Debug\S2CelsoGea.Migrations.up.resources
+c:\users\note-pc\documents\visual studio 2015\Projects\S2CelsoGea\S2CelsoGea\obj\Debug\S2CelsoGea.csproj.GenerateResource.Cache
+C:\Users\Note-pc\Source\Repos\CelsoGeaLocadora\S2CelsoGea\bin\ApplicationInsights.config
+C:\Users\Note-pc\Source\Repos\CelsoGeaLocadora\S2CelsoGea\bin\roslyn\csc.exe
+C:\Users\Note-pc\Source\Repos\CelsoGeaLocadora\S2CelsoGea\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Note-pc\Source\Repos\CelsoGeaLocadora\S2CelsoGea\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Note-pc\Source\Repos\CelsoGeaLocadora\S2CelsoGea\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Note-pc\Source\Repos\CelsoGeaLocadora\S2CelsoGea\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Note-pc\Source\Repos\CelsoGeaLocadora\S2CelsoGea\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Note-pc\Source\Repos\CelsoGeaLocadora\S2CelsoGea\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Note-pc\Source\Repos\CelsoGeaLocadora\S2CelsoGea\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Note-pc\Source\Repos\CelsoGeaLocadora\S2CelsoGea\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Note-pc\Source\Repos\CelsoGeaLocadora\S2CelsoGea\bin\roslyn\vbc.exe
+C:\Users\Note-pc\Source\Repos\CelsoGeaLocadora\S2CelsoGea\bin\roslyn\VBCSCompiler.exe
+C:\Users\Note-pc\Source\Repos\CelsoGeaLocadora\S2CelsoGea\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Note-pc\Source\Repos\CelsoGeaLocadora\S2CelsoGea\bin\S2CelsoGea.dll.config
+C:\Users\Note-pc\Source\Repos\CelsoGeaLocadora\S2CelsoGea\bin\S2CelsoGea.dll
+C:\Users\Note-pc\Source\Repos\CelsoGeaLocadora\S2CelsoGea\bin\S2CelsoGea.pdb
+C:\Users\Note-pc\Source\Repos\CelsoGeaLocadora\S2CelsoGea\bin\Antlr3.Runtime.dll
+C:\Users\Note-pc\Source\Repos\CelsoGeaLocadora\S2CelsoGea\bin\EntityFramework.dll
+C:\Users\Note-pc\Source\Repos\CelsoGeaLocadora\S2CelsoGea\bin\EntityFramework.SqlServer.dll
+C:\Users\Note-pc\Source\Repos\CelsoGeaLocadora\S2CelsoGea\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Note-pc\Source\Repos\CelsoGeaLocadora\S2CelsoGea\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Note-pc\Source\Repos\CelsoGeaLocadora\S2CelsoGea\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Note-pc\Source\Repos\CelsoGeaLocadora\S2CelsoGea\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Note-pc\Source\Repos\CelsoGeaLocadora\S2CelsoGea\bin\Microsoft.AI.Web.dll
+C:\Users\Note-pc\Source\Repos\CelsoGeaLocadora\S2CelsoGea\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Note-pc\Source\Repos\CelsoGeaLocadora\S2CelsoGea\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Note-pc\Source\Repos\CelsoGeaLocadora\S2CelsoGea\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Note-pc\Source\Repos\CelsoGeaLocadora\S2CelsoGea\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Note-pc\Source\Repos\CelsoGeaLocadora\S2CelsoGea\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Note-pc\Source\Repos\CelsoGeaLocadora\S2CelsoGea\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Note-pc\Source\Repos\CelsoGeaLocadora\S2CelsoGea\bin\Microsoft.Owin.dll
+C:\Users\Note-pc\Source\Repos\CelsoGeaLocadora\S2CelsoGea\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Note-pc\Source\Repos\CelsoGeaLocadora\S2CelsoGea\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Note-pc\Source\Repos\CelsoGeaLocadora\S2CelsoGea\bin\Microsoft.Owin.Security.dll
+C:\Users\Note-pc\Source\Repos\CelsoGeaLocadora\S2CelsoGea\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Note-pc\Source\Repos\CelsoGeaLocadora\S2CelsoGea\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Note-pc\Source\Repos\CelsoGeaLocadora\S2CelsoGea\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Note-pc\Source\Repos\CelsoGeaLocadora\S2CelsoGea\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Note-pc\Source\Repos\CelsoGeaLocadora\S2CelsoGea\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Note-pc\Source\Repos\CelsoGeaLocadora\S2CelsoGea\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Note-pc\Source\Repos\CelsoGeaLocadora\S2CelsoGea\bin\Newtonsoft.Json.dll
+C:\Users\Note-pc\Source\Repos\CelsoGeaLocadora\S2CelsoGea\bin\Owin.dll
+C:\Users\Note-pc\Source\Repos\CelsoGeaLocadora\S2CelsoGea\bin\System.Net.Http.Formatting.dll
+C:\Users\Note-pc\Source\Repos\CelsoGeaLocadora\S2CelsoGea\bin\System.Web.Helpers.dll
+C:\Users\Note-pc\Source\Repos\CelsoGeaLocadora\S2CelsoGea\bin\System.Web.Http.dll
+C:\Users\Note-pc\Source\Repos\CelsoGeaLocadora\S2CelsoGea\bin\System.Web.Http.Owin.dll
+C:\Users\Note-pc\Source\Repos\CelsoGeaLocadora\S2CelsoGea\bin\System.Web.Http.WebHost.dll
+C:\Users\Note-pc\Source\Repos\CelsoGeaLocadora\S2CelsoGea\bin\System.Web.Mvc.dll
+C:\Users\Note-pc\Source\Repos\CelsoGeaLocadora\S2CelsoGea\bin\System.Web.Optimization.dll
+C:\Users\Note-pc\Source\Repos\CelsoGeaLocadora\S2CelsoGea\bin\System.Web.Razor.dll
+C:\Users\Note-pc\Source\Repos\CelsoGeaLocadora\S2CelsoGea\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Note-pc\Source\Repos\CelsoGeaLocadora\S2CelsoGea\bin\System.Web.WebPages.dll
+C:\Users\Note-pc\Source\Repos\CelsoGeaLocadora\S2CelsoGea\bin\System.Web.WebPages.Razor.dll
+C:\Users\Note-pc\Source\Repos\CelsoGeaLocadora\S2CelsoGea\bin\WebGrease.dll
+C:\Users\Note-pc\Source\Repos\CelsoGeaLocadora\S2CelsoGea\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Note-pc\Source\Repos\CelsoGeaLocadora\S2CelsoGea\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Note-pc\Source\Repos\CelsoGeaLocadora\S2CelsoGea\bin\Microsoft.AI.Web.xml
+C:\Users\Note-pc\Source\Repos\CelsoGeaLocadora\S2CelsoGea\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Note-pc\Source\Repos\CelsoGeaLocadora\S2CelsoGea\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Note-pc\Source\Repos\CelsoGeaLocadora\S2CelsoGea\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Note-pc\Source\Repos\CelsoGeaLocadora\S2CelsoGea\bin\Newtonsoft.Json.xml
+C:\Users\Note-pc\Source\Repos\CelsoGeaLocadora\S2CelsoGea\bin\System.Net.Http.Formatting.xml
+C:\Users\Note-pc\Source\Repos\CelsoGeaLocadora\S2CelsoGea\bin\System.Web.Helpers.xml
+C:\Users\Note-pc\Source\Repos\CelsoGeaLocadora\S2CelsoGea\bin\System.Web.Http.xml
+C:\Users\Note-pc\Source\Repos\CelsoGeaLocadora\S2CelsoGea\bin\System.Web.Http.WebHost.xml
+C:\Users\Note-pc\Source\Repos\CelsoGeaLocadora\S2CelsoGea\bin\System.Web.Mvc.xml
+C:\Users\Note-pc\Source\Repos\CelsoGeaLocadora\S2CelsoGea\bin\System.Web.Optimization.xml
+C:\Users\Note-pc\Source\Repos\CelsoGeaLocadora\S2CelsoGea\bin\System.Web.Razor.xml
+C:\Users\Note-pc\Source\Repos\CelsoGeaLocadora\S2CelsoGea\bin\System.Web.WebPages.xml
+C:\Users\Note-pc\Source\Repos\CelsoGeaLocadora\S2CelsoGea\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Note-pc\Source\Repos\CelsoGeaLocadora\S2CelsoGea\bin\System.Web.WebPages.Razor.xml
+C:\Users\Note-pc\Source\Repos\CelsoGeaLocadora\S2CelsoGea\bin\Antlr3.Runtime.pdb
+C:\Users\Note-pc\Source\Repos\CelsoGeaLocadora\S2CelsoGea\bin\EntityFramework.xml
+C:\Users\Note-pc\Source\Repos\CelsoGeaLocadora\S2CelsoGea\bin\EntityFramework.SqlServer.xml
+C:\Users\Note-pc\Source\Repos\CelsoGeaLocadora\S2CelsoGea\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Note-pc\Source\Repos\CelsoGeaLocadora\S2CelsoGea\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Note-pc\Source\Repos\CelsoGeaLocadora\S2CelsoGea\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Note-pc\Source\Repos\CelsoGeaLocadora\S2CelsoGea\bin\Microsoft.Owin.xml
+C:\Users\Note-pc\Source\Repos\CelsoGeaLocadora\S2CelsoGea\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Note-pc\Source\Repos\CelsoGeaLocadora\S2CelsoGea\bin\Microsoft.Owin.Security.xml
+C:\Users\Note-pc\Source\Repos\CelsoGeaLocadora\S2CelsoGea\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Note-pc\Source\Repos\CelsoGeaLocadora\S2CelsoGea\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Note-pc\Source\Repos\CelsoGeaLocadora\S2CelsoGea\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Note-pc\Source\Repos\CelsoGeaLocadora\S2CelsoGea\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Note-pc\Source\Repos\CelsoGeaLocadora\S2CelsoGea\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Note-pc\Source\Repos\CelsoGeaLocadora\S2CelsoGea\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Note-pc\Source\Repos\CelsoGeaLocadora\S2CelsoGea\bin\System.Web.Http.Owin.xml
+C:\Users\Note-pc\Source\Repos\CelsoGeaLocadora\S2CelsoGea\obj\Debug\S2CelsoGea.csprojResolveAssemblyReference.cache
+C:\Users\Note-pc\Source\Repos\CelsoGeaLocadora\S2CelsoGea\obj\Debug\S2CelsoGea.Migrations.up.resources
+C:\Users\Note-pc\Source\Repos\CelsoGeaLocadora\S2CelsoGea\obj\Debug\S2CelsoGea.csproj.GenerateResource.Cache
+C:\Users\Note-pc\Source\Repos\CelsoGeaLocadora\S2CelsoGea\obj\Debug\S2CelsoGea.dll
+C:\Users\Note-pc\Source\Repos\CelsoGeaLocadora\S2CelsoGea\obj\Debug\S2CelsoGea.pdb
