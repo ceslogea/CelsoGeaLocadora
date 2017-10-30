@@ -1,4 +1,4 @@
-﻿using System.Data.Entity;
+using System.Data.Entity;
 using System.Linq;
 using System.Net;
 using System.Web.Mvc;
@@ -46,6 +46,13 @@ namespace S2CelsoGea.Controllers
         [ValidateAntiForgeryToken]
         public ActionResult Create([Bind(Include = "Id,UserName,Email,Telefone,Password,ConfirmPassword")] User user)
         {
+            var name = user.UserName.ToLowerInvariant();
+            var usersList = db.Users.ToList();
+            if (usersList.Any(r => r.UserName.ToLowerInvariant().Equals(name)))
+            {
+                ModelState.AddModelError(string.Empty, "Usuário já cadastrado.");
+                return View();
+            }
             if (ModelState.IsValid)
             {
                 db.Users.Add(user);
@@ -153,20 +160,21 @@ namespace S2CelsoGea.Controllers
         {
             using (var db = new S2CelsoGeaContext())
             {
-                User login;
-                var loginAdm = db.Users.FirstOrDefault(r => r.UserName == user.UserName);
-
-                if (loginAdm != null)
-                    login = loginAdm;
-                else
-                    login = db.Users.FirstOrDefault(r => r.Email == user.Email);
+                var login = db.Users.FirstOrDefault(r => r.UserName == user.UserName);
 
                 if (login != null)
+                {
                     if (login.Password == user.Password)
                     {
                         Session["USER"] = login.UserName.ToString();
                         Session["USER_ID"] = login.Id.ToString();
                     }
+                }
+                else
+                {
+                    ModelState.AddModelError(string.Empty, "Usuário ou Senha Inválidos.");
+                    return View();
+                }
 
 
             }
