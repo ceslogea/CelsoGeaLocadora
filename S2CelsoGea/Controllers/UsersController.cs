@@ -160,15 +160,12 @@ namespace S2CelsoGea.Controllers
         {
             using (var db = new S2CelsoGeaContext())
             {
-                var login = db.Users.FirstOrDefault(r => r.UserName == user.UserName);
+                var login = db.Users.FirstOrDefault(r => r.UserName.Equals(user.UserName) && r.Password.Equals(user.Password));
 
                 if (login != null)
                 {
-                    if (login.Password == user.Password)
-                    {
-                        Session["USER"] = login.UserName.ToString();
-                        Session["USER_ID"] = login.Id.ToString();
-                    }
+                    Session["USER"] = login.UserName.ToString();
+                    Session["USER_ID"] = login.Id.ToString();
                 }
                 else
                 {
